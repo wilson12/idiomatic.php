@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="614ad442-65b3-4cf1-941e-612869fa851a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="idiomatic.php.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,6 +17,7 @@
     <file path="$PROJECT_DIR$/../php-autoloader/examples/includes/class.php" changelist="614ad442-65b3-4cf1-941e-612869fa851a" time="1380385270246" ignored="false" />
     <file path="/class.php" changelist="614ad442-65b3-4cf1-941e-612869fa851a" time="1380385296563" ignored="false" />
     <file path="$PROJECT_DIR$/../php-autoloader/examples/class.php" changelist="614ad442-65b3-4cf1-941e-612869fa851a" time="1380385308291" ignored="false" />
+    <file path="/.gitignore" changelist="614ad442-65b3-4cf1-941e-612869fa851a" time="1380385597291" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +37,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="0" selection-start="1430" selection-end="1430" vertical-scroll-proportion="1.2804878">
+            <state line="49" column="0" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -64,6 +74,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -222,7 +233,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="1430" selection-end="1430" vertical-scroll-proportion="1.2804878">
+        <state line="49" column="0" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
