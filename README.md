@@ -32,6 +32,34 @@
 
 2. <a name="spacing">Beautiful Syntax</a>
 
+    A. Parens, Braces, Linebreaks
+
+    ```php
+
+    if (condition) {
+
+    }
+
+    if ( true ) {
+
+    } else {
+
+    }
+
+    foreach (condition) {
+
+    }
+
+    for ($i = 0; $i < 100; $i++) {
+
+    }
+
+    while (condition) {
+
+    }
+
+    B. Assignments, Declarations, Functions/Methods, Classes
+
 3. <a name="type">Type Checking</a>
 
 4. <a name="cond">Conditional Evaluation</a>
