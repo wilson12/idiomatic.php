@@ -17,7 +17,7 @@
 
  * [Whitespace](#whitespace)
  * [Beautiful Syntax](#spacing)
- * [Type Checking (Courtesy jQuery Core Style Guidelines)](#type)
+ * [Type Checking](#type)
  * [Conditional Evaluation](#cond)
  * [Practical Style](#practical)
  * [Naming](#naming)
@@ -32,13 +32,13 @@
 
 2. <a name="spacing">Beautiful Syntax</a>
 
-3. <a name="type">Type Checking (Courtesy jQuery Core Style Guidelines)</a>
+3. <a name="type">Type Checking</a>
 
 4. <a name="cond">Conditional Evaluation</a>
 
 5. <a name="practical">Practical Style</a>
 
-6. <a name="naming">Naming</a
+6. <a name="naming">Naming</a>
 
 7. <a name="misc">Misc</a>
 
