@@ -22,7 +22,7 @@ I do not intend to impose my style preferences on other people's code or project
  * [Misc](#misc)
  * [Native & Host Objects](#native)
  * [Comments](#comments)
- 
+
 
 1. <a name="whitespace">Whitespace</a>
     - Never mix spaces and tabs.
@@ -152,7 +152,7 @@ I do not intend to impose my style preferences on other people's code or project
     }
 
     // Naming Classes (Includes Traits, Interfaces and Namespaces)
-    class People
+    class PascalCase
     {
 
     }
