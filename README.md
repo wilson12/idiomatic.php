@@ -1,16 +1,14 @@
 # idiomatic.php
 
-
 ## Guidleines For Writing Consistent, Idiomatic PHP
 
 * Tom Ellis [@tomgrohl](http://twitter.com/tomgrohl), [github](https://github.com/tomgrohl)
 
+All code in any project should look like a single person typed it, no matter how many people contributed.
 
-## All code in any code-base should look like a single person typed it, no matter how many people contributed.
+The following list outlines the practices that I use in all code that I am the original author of; contributions to projects that I have created should follow these guidelines.
 
-### The following list outlines the practices that I use in all code that I am the original author of; contributions to projects that I have created should follow these guidelines.
-
-### I do not intend to impose my style preferences on other people's code or projects; if an existing common style exists, it should be respected.
+I do not intend to impose my style preferences on other people's code or projects; if an existing common style exists, it should be respected.
 
 
 ## Table of Contents
