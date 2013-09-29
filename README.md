@@ -42,7 +42,8 @@
 
     if ( true ) {
 
-    } else {
+    }
+    else {
 
     }
 
@@ -58,9 +59,65 @@
 
     }
 
+    ```
+
     B. Assignments, Declarations, Functions/Methods, Classes
 
+
+    ```php
+
+
+
+    ```
+
 3. <a name="type">Type Checking</a>
+
+    A. Actual Types
+
+    String:
+
+    ```php
+        is_string( $string )
+    ```
+
+    Integer:
+
+    ```php
+        is_int( 1 )
+    ```
+
+    Floating Point Number:
+
+    ```php
+        is_float( 1.2 )
+    ```
+
+    A Variable Considered Numeric:
+
+    ```php
+        is_numeric( $var )
+    ```
+
+    Array:
+
+    ```php
+        is_array( array(1,2,3) )
+    ```
+
+    Boolean:
+
+    ```php
+        is_bool( condition )
+    ```
+
+    Object:
+
+    ```php
+        $class = new Foo();
+        is_object( $class )
+    ```
+
+    B. Coerced Types
 
 4. <a name="cond">Conditional Evaluation</a>
 
