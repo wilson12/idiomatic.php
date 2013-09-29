@@ -124,6 +124,7 @@ I do not intend to impose my style preferences on other people's code or project
         'name' => 'Tom Ellis',
         'age'  => '24',
     );
+    ```
 
 4. <a name="cond">Conditional Evaluation</a>
 
