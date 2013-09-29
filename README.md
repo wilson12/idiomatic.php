@@ -77,47 +77,56 @@
     String:
 
     ```php
-        is_string( $string )
+    is_string( $string )
     ```
 
     Integer:
 
     ```php
-        is_int( 1 )
+    is_int( 1 )
     ```
 
     Floating Point Number:
 
     ```php
-        is_float( 1.2 )
+    is_float( 1.2 )
     ```
 
     A Variable Considered Numeric:
 
     ```php
-        is_numeric( $var )
+    is_numeric( $var )
     ```
 
     Array:
 
     ```php
-        is_array( array(1,2,3) )
+    is_array( array(1,2,3) )
     ```
 
     Boolean:
 
     ```php
-        is_bool( condition )
+    is_bool( condition )
     ```
 
     Object:
 
     ```php
-        $class = new Foo();
-        is_object( $class )
+    $class = new Foo();
+    is_object( $class )
     ```
 
     B. Coerced Types
+
+    Consider the following as post data:
+
+    ```php
+
+    $post = array(
+        'name' => 'Tom Ellis',
+        'age'  => '24',
+    );
 
 4. <a name="cond">Conditional Evaluation</a>
 
