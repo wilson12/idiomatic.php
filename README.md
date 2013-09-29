@@ -22,8 +22,7 @@ I do not intend to impose my style preferences on other people's code or project
  * [Misc](#misc)
  * [Native & Host Objects](#native)
  * [Comments](#comments)
- * [One Language Code](#language)
-
+ 
 
 1. <a name="whitespace">Whitespace</a>
     - Never mix spaces and tabs.
@@ -128,9 +127,37 @@ I do not intend to impose my style preferences on other people's code or project
 
 4. <a name="cond">Conditional Evaluation</a>
 
+    array
+
+    boolean
+
+    string
+
 5. <a name="practical">Practical Style</a>
 
 6. <a name="naming">Naming</a>
+
+   ```php
+
+    // Naming a string
+    $person = 'Tom';
+
+    // Naming an array
+    $persons is an array
+
+    // Naming Functions/Class Methods
+    function camelCase()
+    {
+
+    }
+
+    // Naming Classes (Includes Traits, Interfaces and Namespaces)
+    class People
+    {
+
+    }
+
+   ```
 
 7. <a name="misc">Misc</a>
 
@@ -138,4 +165,15 @@ I do not intend to impose my style preferences on other people's code or project
 
 9. <a name="comments">Comments</a>
 
-10. <a name="language">One Language Code</a>
+    ```php
+    /**
+    * Should be used for docblocks
+    */
+
+    /*
+     Use be used for multiline comments
+    */
+
+    // Should be used for single line comments
+
+    ```
